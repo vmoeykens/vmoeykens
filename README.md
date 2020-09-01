@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vmoeykens&count_private=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmoeykens&layout=compact)
